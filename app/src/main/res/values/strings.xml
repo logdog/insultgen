@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Insult Generator</string>
+    <string name="button_text">Insult</string>
+    <string name="top_text">Press</string>
+    <string name="middle_text">The</string>
+    <string name="bottom_text">Button</string>
+    
+    <string-array name="adj">
+        <item>stupid</item>
+        <item>dumb</item>
+        <item>fat</item>
+        <item>stinky</item>
+        <item>slimy</item>
+        <item>icky</item>
+        <item>rusty</item>
+        <item>lumpy</item>
+        <item>bumpy</item>
+        <item>scratchy</item>
+        <item>itchy</item>
+        <item>homeless</item>
+        <item>crunchy</item>
+        <item>bitter</item>
+        <item>mean</item>
+        <item>skinny</item>
+        <item>sketchy</item>
+        <item>stinging</item>
+        <item>violent</item>
+        <item>angry</item>
+        <item>evil</item>
+        <item>democratic</item>
+        <item>hairy</item>
+        <item>chunky</item>
+        <item>ignorant</item>
+        <item>explosive</item>
+        <item>goofy</item>
+        <item>old</item>
+        <item>antiquated</item>
+        <item>unwanted</item>
+        <item>annoying</item>
+        <item>overrated</item>
+        <item>out-of-style</item>
+        <item>red</item>
+        <item>colorful</item>
+        <item>blue</item>
+        <item>hard</item>
+        <item>soft</item>
+        <item>ripped</item>
+        <item>buff</item>
+        <item>attention-needing</item>
+        <item>irrelevant</item>
+        <item>immature</item>
+    </string-array>
+
+    <string-array name="noun">
+        <item>booger</item>
+        <item>eraser</item>
+        <item>pig</item>
+        <item>chair</item>
+        <item>computer</item>
+        <item>anime</item>
+        <item>potato</item>
+        <item>soda</item>
+        <item>squirrel</item>
+        <item>rat</item>
+        <item>brick</item>
+        <item>mosquito</item>
+        <item>razor</item>
+        <item>knife</item>
+        <item>foot</item>
+        <item>toe</item>
+        <item>ice</item>
+        <item>cloud</item>
+        <item>tree</item>
+        <item>candle</item>
+        <item>song</item>
+        <item>bush</item>
+        <item>music</item>
+        <item>bathtub</item>
+        <item>cheese</item>
+        <item>goose</item>
+        <item>ball</item>
+        <item>handle</item>
+        <item>rope</item>
+        <item>straw</item>
+        <item>silicon</item>
+        <item>brother</item>
+        <item>sister</item>
+        <item>flag</item>
+        <item>homework</item>
+        <item>test</item>
+        <item>birdhouse</item>
+        <item>chime</item>
+        <item>rain</item>
+        <item>internet</item>
+        <item>caprisun</item>
+        <item>sock</item>
+        <item>pants</item>
+        <item>duct-tape</item>
+        <item>dabbing</item>
+    </string-array>
+
+    <string-array name="er">
+        <item>eater</item>
+        <item>pusher</item>
+        <item>person</item>
+        <item>nerd</item>
+        <item>dweeb</item>
+        <item>wanna-be</item>
+        <item>destroyer</item>
+        <item>maniac</item>
+        <item>poser</item>
+        <item>hugger</item>
+        <item>hater</item>
+        <item>cheater</item>
+        <item>loser</item>
+        <item>stinker</item>
+        <item>fraud</item>
+        <item>freshman</item>
+        <item>jerk</item>
+        <item>idiot</item>
+        <item>dork</item>
+        <item>liberal</item>
+        <item>nobody</item>
+        <item>professional</item>
+        <item>amateur</item>
+        <item>whiner</item>
+        <item>fan</item>
+        <item>lame-o</item>
+        <item>child</item>
+        <item>kid</item>
+        <item>baby</item>
+        <item>feminist</item>
+        <item>stealer</item>
+        <item>snitch</item>
+        <item>liar</item>
+        <item>republican</item>
+        <item>secretary of state</item>
+        <item>dummy</item>
+        <item>imbecile</item>
+        <item>stalker</item>
+        <item>pervert</item>
+        <item>creep</item>
+        <item>addict</item>
+    </string-array>
+</resources>
